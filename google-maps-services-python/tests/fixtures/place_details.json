@@ -1,0 +1,19 @@
+{
+  "status": "OK",
+  "result": {
+    "place_id": "ChIJABC123def456",
+    "name": "Joe's Plumbing",
+    "formatted_address": "123 Main St, Austin, TX 78701, USA",
+    "formatted_phone_number": "(512) 555-1234",
+    "international_phone_number": "+1 512-555-1234",
+    "website": "https://www.joesplumbing.example.com",
+    "types": ["plumber", "point_of_interest", "establishment"],
+    "rating": 4.5,
+    "user_ratings_total": 127,
+    "geometry": {
+      "location": {"lat": 30.2672, "lng": -97.7431}
+    }
+  },
+  "html_attributions": []
+}
+
