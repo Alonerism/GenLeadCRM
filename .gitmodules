@@ -1,0 +1,6 @@
+[submodule "sunbeam-crm"]
+	path = sunbeam-crm
+	url = https://github.com/Alonerism/sunbeam-crm.git
+[submodule "Voice-Agent/Nika-Voice"]
+	path = Voice-Agent/Nika-Voice
+	url = https://github.com/Alonerism/Nika-Voice.git

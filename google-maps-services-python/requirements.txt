@@ -1,0 +1,12 @@
+# Lead Engine Dependencies
+# Core requirements for the lead generation pipeline
+
+# Google Maps API client
+requests>=2.20.0,<3.0
+
+# No additional dependencies required for basic operation
+# The googlemaps library is included in this repo
+
+# Optional but recommended for better crawling performance:
+# lxml>=4.9.0  # Faster HTML parsing (uncomment if needed)
+

@@ -1,0 +1,35 @@
+{
+  "status": "OK",
+  "results": [
+    {
+      "place_id": "ChIJABC123def456",
+      "name": "Joe's Plumbing",
+      "formatted_address": "123 Main St, Austin, TX 78701, USA",
+      "types": ["plumber", "point_of_interest", "establishment"],
+      "geometry": {
+        "location": {"lat": 30.2672, "lng": -97.7431}
+      }
+    },
+    {
+      "place_id": "ChIJDEF789ghi012",
+      "name": "Austin Plumbing Pros",
+      "formatted_address": "456 Oak Ave, Austin, TX 78702, USA",
+      "types": ["plumber", "home_goods_store", "point_of_interest", "establishment"],
+      "geometry": {
+        "location": {"lat": 30.2750, "lng": -97.7350}
+      }
+    },
+    {
+      "place_id": "ChIJGHI345jkl678",
+      "name": "Quick Fix Plumbing",
+      "formatted_address": "789 Cedar Blvd, Austin, TX 78703, USA",
+      "types": ["plumber", "point_of_interest", "establishment"],
+      "geometry": {
+        "location": {"lat": 30.2900, "lng": -97.7500}
+      }
+    }
+  ],
+  "html_attributions": [],
+  "next_page_token": null
+}
+
