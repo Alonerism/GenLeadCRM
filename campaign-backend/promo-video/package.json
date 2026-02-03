@@ -1,0 +1,23 @@
+{
+  "name": "sunbeam-crm-promo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "remotion studio src/index.jsx",
+    "build": "remotion render src/index.jsx SunbeamPromo out/video.mp4",
+    "build:fb-16x9": "remotion render src/index.jsx FacebookAd-16x9 out/facebook-ad-16x9.mp4",
+    "build:fb-square": "remotion render src/index.jsx FacebookAd-Square out/facebook-ad-square.mp4",
+    "build:all": "npm run build && npm run build:fb-16x9 && npm run build:fb-square",
+    "upgrade": "remotion upgrade"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Hilariously over-the-top Jim Carrey-style promo video for Sunbeam CRM",
+  "dependencies": {
+    "@remotion/cli": "^4.0.409",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "remotion": "^4.0.409"
+  }
+}
